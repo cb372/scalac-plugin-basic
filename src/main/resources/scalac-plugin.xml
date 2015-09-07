@@ -1,0 +1,4 @@
+<plugin>
+    <name>basic</name>
+    <classname>basic.BasicPlugin</classname>
+</plugin>
